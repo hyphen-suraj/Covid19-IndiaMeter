@@ -1,13 +1,14 @@
 # Covid19-IndiaMeter
-* Shows the score of all live football matches
-* Third party API used from rapidApi
+* Shows the statistics about covid19 cases in india
 * Attractive UI/UX
-* Axios used for feching API data
+
 
 Used:
 - HTML
 - CSS
 - JS
+- PHP
+- MySQL
 - BOOTSTRAP
 
 # SCREENSHOT
