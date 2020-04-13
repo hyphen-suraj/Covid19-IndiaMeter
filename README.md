@@ -2,6 +2,7 @@
 * Shows the statistics about covid19 cases in india
 * Data has been represented  through various charts
 * Attractive UI/UX
+* Live Demo at http://covid19indiameter.epizy.com/covid19 
 
 
 Used:
