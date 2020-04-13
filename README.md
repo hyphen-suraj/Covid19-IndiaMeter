@@ -1,5 +1,6 @@
 # Covid19-IndiaMeter
 * Shows the statistics about covid19 cases in india
+* Data has been represented  through various charts
 * Attractive UI/UX
 
 
